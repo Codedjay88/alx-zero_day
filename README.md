@@ -1,1 +1,1 @@
-Some text for this read me
+Starting to code in Software Engineer.
